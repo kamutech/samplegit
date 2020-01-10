@@ -1,2 +1,2 @@
 # samplegit
-This is samplegit
+This is samplegit for git command demonstration
